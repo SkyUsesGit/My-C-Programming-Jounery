@@ -7,3 +7,8 @@ This Repo will contain all the c codes and projects that i will go through
 contact me on : mrelectronicsarduino@gmail.com for any issues
 Thank you
 </pre>
+<H1>Codes that i have written till now:</H1>
+<ol type = "1">
+<li>Hello World</li>
+<li>Addition two numbers</li>
+</ol>
