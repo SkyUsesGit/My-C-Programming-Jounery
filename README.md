@@ -10,5 +10,5 @@ Thank you
 <H1>Codes that i have written till now:</H1>
 <ol type = "1">
 <li>Hello World</li>
-<li>Addition two numbers</li>
+<li>Addition of two numbers</li>
 </ol>
