@@ -11,4 +11,5 @@ Thank you
 <ol type = "1">
 <li>Hello World</li>
 <li>Addition of two numbers</li>
+<li>Taking Input from the user in the form of a word and displaying it.</li>
 </ol>
